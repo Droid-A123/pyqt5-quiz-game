@@ -13,3 +13,7 @@ A simple quiz game built with PyQt5, featuring a hacker-style neon theme.
 ```bash
 pip install -r requirements.txt
 python quiz_game.py
+
+
+## Preview
+![Quiz Game Screenshot](screenshot.png)
